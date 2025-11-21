@@ -13,6 +13,9 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.0"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "keywords": ["mcp", "poke", "whatsapp", "clickup"],
   "author": "Your Name",
   "license": "MIT"
